@@ -64,4 +64,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - 🌐 Deployment via Vercel or Netlify
 
 ## 🙋‍♂️ Author
-Built By 💙 by HarshK213
+Built By 💙 by HarshK213,[Aniket](#https://github.com/AniketDubey199),[Bhoovesh](#https://github.com/Bhooveshvyas)
